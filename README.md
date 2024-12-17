@@ -83,3 +83,14 @@ It will be updated dynamically via the GUI, and the system will reload it to upd
 |  - Display graphs        |
 +--------------------------+
 ```
+
+
+# Output
+
+### When NVDA is selected
+
+![alt text](output/image_NVDA.png)
+
+### When API fails to fetch the data
+
+![alt text](output/image.png)

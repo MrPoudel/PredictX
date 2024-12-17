@@ -19,14 +19,4 @@
     ```
 
 
-# Output
-
-### When NVDA is selected
-
-![alt text](image-1.png)
-
-### When API fails to fetch the data
-
-![alt text](image.png)
-
 
