@@ -3,6 +3,8 @@
 ## Overview
 The goal of PredictX is to predict the stock price of selected companies (like Nvidia, Google, Tesla, Microsoft, and Broadcom) for the next 24 hours. The system will pull real-time data every 10 minutes, analyze it, and predict the stock price for the next 24 hours. It will also display the results in a colorful GUI, with a graph of predicted stock prices. Users can modify which stocks to predict via a configuration file, with a limit of 10 stocks.
 
+![Stock Predition](output/image_NVDA.png)
+
 ## Key Requirements
 
 1. Real-Time Data Pulling: The system will use Polygon.io API to pull real-time stock data every 10 minutes.
