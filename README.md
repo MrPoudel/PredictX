@@ -80,5 +80,4 @@ It will be updated dynamically via the GUI, and the system will reload it to upd
 |  - Show predictions      |
 |  - Display graphs        |
 +--------------------------+
-
 ```
